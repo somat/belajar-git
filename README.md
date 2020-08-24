@@ -4,22 +4,21 @@ Materi ini ditujukan untuk para pengembang perangkat lunak agar dapat menggunaka
 
 ## Pengantar
 
-Git merupakan salah satu alat untuk mengelola kode sumber perangkat lunak, biasanya disebut dengan Version Control System (VCS). 
+Jika Anda sedang atau akan bekerja sebagai pengembang aplikasi, atau berhubungan dengan pengembangan perangkat lunak, maka kursus ini untuk Anda, kursus ini akan membantu Anda belajar Git.
 
-* Distributed Version Control System (VCS)
+### Apa itu Git?
 
-* Instalasi
+Git merupakan Version Control System (VCS) yang terdistribusi, digunakan untuk mengelola kode sumber, kalau kita bekerja di dalam satu tim yang terdiri dari beberapa anggota tim, maka git membantu Anda untuk berkolaborasi dalam satu repository, selain itu revisi dari kode sumber juga tercatat dengan baik.
 
-  * Windows
-  * Linux
+Saat ini Git merupakan kebutuhan yang mendasar bagi orang-orang yang pekerjaannya berhubungan dengan pengembangan perangkat lunak, apapun role nya, baik programmer, tester, dokumentasi, devops, hampir semua role di bidang IT membutuhkan git.
 
-* Konfigurasi
+### Apa yang akan didapatkan setelah mengikuti kursus ini?
 
-```
-git config --global user.name "Akhmat Safrudin"
-git config --global user.email "somat@somat.web.id"
-git config --list
-```
+Kursus ini diharapkan dapat memberikan skill dasar untuk bekerja dengan git, setelah mengikuti kursus ini diharapkan Anda dapat menggunakan git, mengelola repository, bekerja berkolaborasi dengan tim menggunakan git, dan dapat menggunakan git untuk keperluan sehari-hari.
+
+Untuk mengikuti kursus ini, yang dibutuhkan adalah:
+laptop/pc desktop dengan sistem operasi Linux, Windows, Mac OS
+Dan koneksi internet tentunya, itu saja.
 
 ## Perintah Git
 
